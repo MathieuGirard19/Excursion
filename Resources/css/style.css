@@ -1,0 +1,39 @@
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 50px;
+  font-family: Verdana;
+}
+
+p {
+  font-size: 16px;
+}
+
+a {
+  color: aquamarine;
+}
+
+body {
+  background-color: black;
+  text-align: center;
+}
+
+h2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+.subtitle {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+
+h3 {
+  text-align: right;
+  color: gray;
+  font-family: sans-serif;
+  font-size: 15px;
+}
